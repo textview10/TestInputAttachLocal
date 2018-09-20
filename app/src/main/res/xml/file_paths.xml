@@ -1,0 +1,4 @@
+<paths>
+    <external-path path="Android/data/com.zonekey.testinputattachlocal/" name="files_root" />
+    <external-path path="." name="files_path" />
+</paths>
